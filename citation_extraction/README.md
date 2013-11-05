@@ -1,6 +1,6 @@
 # Citation Extraction
 
-Attempts at distilling useful knowledge from US Court decisions with the `unitedstates/citation` module.
+Attempts at distilling useful knowledge from [US Court decisions](https://www.courtlistener.com/dump-info/) with the [unitedstates/citation](https://github.com/unitedstates/citation) node module.
 
 ### List cases that cite to given US Code title
 
