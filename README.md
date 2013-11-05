@@ -2,7 +2,7 @@
 
 ## Projects
 
-- citation extraction
+- [citation extraction](https://github.com/adelevie/legal-text-mining/tree/master/citation_extraction)
 
 ### License
 
